@@ -11,8 +11,6 @@
     "clean": "rm -rf node_modules && yarn && watchman watch-del-all && react-native start --reset-cache"
   },
   "dependencies": {
-    "react": "16.2.0",
-    "react-native": "^0.52.0-rc.0"
     "expo": "^24.0.2",
     "react": "16.0.0",
     "react-native": "0.51.0"
