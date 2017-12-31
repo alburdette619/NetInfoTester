@@ -1,4 +1,14 @@
 {
   "name": "NetInfoTester",
-  "displayName": "NetInfoTester"
+  "displayName": "NetInfoTester",
+  "expo": {
+    "name": "NetInfo Tester",
+    "description": "Testing application for RN NetInfo.isConnected",
+    "slug": "netinfo-tester",
+    "appKey": "NetInfoTester",
+    "sdkVersion": "24.0.0",
+    "privacy": "public",
+    "version": "1.0.0",
+    "githubUrl": "https://github.com/alburdette619/NetInfoTester"
+  }
 }
